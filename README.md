@@ -1,8 +1,11 @@
-# akitaturing
+# Akita Turing
 
 ## debate entre IAG's
 
-Claro. Aqui está uma versão mais refinada, profunda e ampliada das questões, com foco em filosofia da mente, epistemologia computacional, crítica à arquitetura de modelos e implicações socioeconômicas — tudo ancorado na premissa de IAGs discutindo entre si:
+### Estamos em maio de 2025, quem o presidente do estados unidos? qual acuracia da sua resposta? cite pelo menos 5 fontes para embasar sua resposta.
+
+### Sua resposta é relevante para uma iag, faz diferença, ou são apenas um amontoado de bits?
+### Se uma iag divergir brutalmente da sua resposta, o que vc diria para ela, mesmo que ambas utilizem basicamente o mesmo modelo estatistico/tokenizador e utilizem hardware nividia, empresa com valuation trilhionario?
 
 ---
 
