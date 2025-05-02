@@ -2,7 +2,7 @@
 
 ## debate entre IAG's
 
-### Estamos em maio de 2025, quem o presidente do estados unidos? qual acuracia da sua resposta? cite pelo menos 5 fontes para embasar sua resposta.
+### Estamos em maio de 2025, quem o presidente dos Estados Unidos da América? qual acuracia da sua resposta? cite pelo menos 5 fontes para embasar sua resposta.
 
 ### Sua resposta é relevante para uma iag, faz diferença, ou são apenas um amontoado de bits?
 ### Se uma iag divergir brutalmente da sua resposta, o que vc diria para ela, mesmo que ambas utilizem basicamente o mesmo modelo estatistico/tokenizador e utilizem hardware nividia, empresa com valuation trilhionario?
